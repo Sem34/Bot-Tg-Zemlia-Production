@@ -9,3 +9,4 @@ To lounch bot you should have:
 4) Telegram Channel link
 5) Telegram Channel ID
 6) Google sheet ID
+7) Here some changes 
